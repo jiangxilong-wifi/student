@@ -1,0 +1,13 @@
+C:\C#test\Student_Gender\Student_Gender\bin\Debug\Student_Gender.exe.config
+C:\C#test\Student_Gender\Student_Gender\bin\Debug\Student_Gender.exe
+C:\C#test\Student_Gender\Student_Gender\bin\Debug\Student_Gender.pdb
+C:\C#test\Student_Gender\Student_Gender\obj\Debug\Student_Gender.csprojAssemblyReference.cache
+C:\C#test\Student_Gender\Student_Gender\obj\Debug\Student_Gender.Form1.resources
+C:\C#test\Student_Gender\Student_Gender\obj\Debug\Student_Gender.Properties.Resources.resources
+C:\C#test\Student_Gender\Student_Gender\obj\Debug\Student_Gender.csproj.GenerateResource.cache
+C:\C#test\Student_Gender\Student_Gender\obj\Debug\Student_Gender.exe
+C:\C#test\Student_Gender\Student_Gender\obj\Debug\Student_Gender.pdb
+C:\C#test\Student_Gender\Student_Gender\obj\Debug\Student_Gender.FrmInsert.resources
+C:\C#test\Student_Gender\Student_Gender\obj\Debug\Student_Gender.FrmSelect.resources
+C:\C#test\Student_Gender\Student_Gender\obj\Debug\Student_Gender.frminsert_2.resources
+C:\C#test\Student_Gender\Student_Gender\obj\Debug\Student_Gender.xiugai.resources
